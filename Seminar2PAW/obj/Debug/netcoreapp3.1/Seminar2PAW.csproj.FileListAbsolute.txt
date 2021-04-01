@@ -1,0 +1,26 @@
+E:\Seminar POO\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.exe
+E:\Seminar POO\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.deps.json
+E:\Seminar POO\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.runtimeconfig.json
+E:\Seminar POO\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.runtimeconfig.dev.json
+E:\Seminar POO\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.dll
+E:\Seminar POO\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.pdb
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.AssemblyInfoInputs.cache
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.AssemblyInfo.cs
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.csproj.CoreCompileInputs.cache
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.dll
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.pdb
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.genruntimeconfig.cache
+E:\Seminar POO\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.csprojAssemblyReference.cache
+E:\Code & Dev\C#\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.exe
+E:\Code & Dev\C#\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.deps.json
+E:\Code & Dev\C#\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.runtimeconfig.json
+E:\Code & Dev\C#\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.runtimeconfig.dev.json
+E:\Code & Dev\C#\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.dll
+E:\Code & Dev\C#\Seminar2PAW\bin\Debug\netcoreapp3.1\Seminar2PAW.pdb
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.csprojAssemblyReference.cache
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.AssemblyInfoInputs.cache
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.AssemblyInfo.cs
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.csproj.CoreCompileInputs.cache
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.dll
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.pdb
+E:\Code & Dev\C#\Seminar2PAW\obj\Debug\netcoreapp3.1\Seminar2PAW.genruntimeconfig.cache

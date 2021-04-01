@@ -1,0 +1,7 @@
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\bin\Debug\Sem 3 - 1057.exe.config
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\bin\Debug\Sem 3 - 1057.exe
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\bin\Debug\Sem 3 - 1057.pdb
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\obj\Debug\Sem 3 - 1057.csprojAssemblyReference.cache
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\obj\Debug\Sem 3 - 1057.csproj.CoreCompileInputs.cache
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\obj\Debug\Sem 3 - 1057.exe
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\Sem 3 - 1057\obj\Debug\Sem 3 - 1057.pdb

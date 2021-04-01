@@ -1,0 +1,11 @@
+E:\Code & Dev\C#\Seminar4_PAW\bin\Debug\Seminar4_PAW.exe.config
+E:\Code & Dev\C#\Seminar4_PAW\bin\Debug\Seminar4_PAW.exe
+E:\Code & Dev\C#\Seminar4_PAW\bin\Debug\Seminar4_PAW.pdb
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.csprojAssemblyReference.cache
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.Form1.resources
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.Properties.Resources.resources
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.csproj.GenerateResource.cache
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.csproj.CoreCompileInputs.cache
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.exe
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.pdb
+E:\Code & Dev\C#\Seminar4_PAW\obj\Debug\Seminar4_PAW.FormMedic.resources

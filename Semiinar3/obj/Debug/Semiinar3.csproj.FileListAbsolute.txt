@@ -1,0 +1,7 @@
+E:\Code & Dev\C#\Semiinar3\bin\Debug\Semiinar3.exe.config
+E:\Code & Dev\C#\Semiinar3\bin\Debug\Semiinar3.exe
+E:\Code & Dev\C#\Semiinar3\bin\Debug\Semiinar3.pdb
+E:\Code & Dev\C#\Semiinar3\obj\Debug\Semiinar3.csprojAssemblyReference.cache
+E:\Code & Dev\C#\Semiinar3\obj\Debug\Semiinar3.csproj.CoreCompileInputs.cache
+E:\Code & Dev\C#\Semiinar3\obj\Debug\Semiinar3.exe
+E:\Code & Dev\C#\Semiinar3\obj\Debug\Semiinar3.pdb

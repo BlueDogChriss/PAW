@@ -1,0 +1,20 @@
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\bin\Debug\sem 3 -1057 ex 2.exe.config
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\bin\Debug\sem 3 -1057 ex 2.exe
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\bin\Debug\sem 3 -1057 ex 2.pdb
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.csprojAssemblyReference.cache
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem_3__1057_ex_2.Form1.resources
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem_3__1057_ex_2.Properties.Resources.resources
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.csproj.GenerateResource.cache
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.csproj.CoreCompileInputs.cache
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.exe
+C:\Users\Venus\Google Drive\Documente Alex\Visual Studio Projects\Sem 3 - 1057\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.pdb
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\bin\Debug\sem 3 -1057 ex 2.exe.config
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\bin\Debug\sem 3 -1057 ex 2.exe
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\bin\Debug\sem 3 -1057 ex 2.pdb
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.csprojAssemblyReference.cache
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem_3__1057_ex_2.Form1.resources
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem_3__1057_ex_2.Properties.Resources.resources
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.csproj.GenerateResource.cache
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.csproj.CoreCompileInputs.cache
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.exe
+E:\Code & Dev\C#\Seminar3_1057PAW\sem 3 -1057 ex 2\obj\Debug\sem 3 -1057 ex 2.pdb

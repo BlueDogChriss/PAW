@@ -1,0 +1,11 @@
+E:\Code & Dev\C#\Seminar4_1058\bin\Debug\Seminar4_1058.exe.config
+E:\Code & Dev\C#\Seminar4_1058\bin\Debug\Seminar4_1058.exe
+E:\Code & Dev\C#\Seminar4_1058\bin\Debug\Seminar4_1058.pdb
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.csprojAssemblyReference.cache
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.Form1.resources
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.Properties.Resources.resources
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.csproj.GenerateResource.cache
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.csproj.CoreCompileInputs.cache
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.exe
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.pdb
+E:\Code & Dev\C#\Seminar4_1058\obj\Debug\Seminar4_1058.Form2.resources
